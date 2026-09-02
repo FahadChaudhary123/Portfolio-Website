@@ -1,7 +1,13 @@
-# Animated Portfolio — Associate Software Engineer
+# Portfolio Website — Muhammad Fahad Taj
 
-A single-page animated portfolio with **live GitHub integration**. No build step,
-no dependencies, no framework — open `index.html` and it works.
+A modern, interactive developer portfolio designed to showcase my skills, projects,
+experience and achievements. Clean premium design with smooth scroll animations,
+interactive project cards, animated text, responsive layouts and engaging transitions.
+
+Built as a single page with **live GitHub integration**. No build step, no
+dependencies, no framework — open `index.html` and it works.
+
+**Live:** https://fahadchaudhary123.github.io/Portfolio-Website/
 
 ## Quick start
 
