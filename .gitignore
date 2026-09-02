@@ -11,3 +11,6 @@ desktop.ini
 # Logs / deps (not used today, but cheap insurance)
 node_modules/
 *.log
+
+# Vercel
+.vercel/
