@@ -1,0 +1,7 @@
+# Keep LF in the repo regardless of the OS checking it out
+* text=auto eol=lf
+
+# Binary
+*.pdf binary
+*.png binary
+*.jpg binary
