@@ -7,7 +7,7 @@ interactive project cards, animated text, responsive layouts and engaging transi
 Built as a single page with **live GitHub integration**. No build step, no
 dependencies, no framework — open `index.html` and it works.
 
-**Live:** https://fahadchaudhary123.github.io/Portfolio-Website/
+**Live:** https://fahad-taj-portfolio.vercel.app
 
 ## Quick start
 
